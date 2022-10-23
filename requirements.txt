@@ -16,9 +16,9 @@ pyrogram==1.4.16
 python-dotenv
 pyyaml==5.3.1
 requests
-speedtest-cli
+git+https://github.com/Pulsar8806/skyfall
 spotipy
 tgcrypto
 youtube-search
 youtube-search-python
-yt-dlp
+git+https://github.com/Mehmetbaba06/sensizolmaz
