@@ -73,7 +73,7 @@ start_5 : "{0} adlı kullanıcının Sudo Kullanıcısının[{1}] bir üyesi soh
 start_6 : "❗️ **Süper Grup Gerekli** ❗️\n\nLütfen **grubunuzu** **süper gruba** dönüştürün ve sonra beni tekrar ekleyin.\n\n**Üst grup nasıl yapılır?**\n✅ Grubunuzun sohbet geçmişini oluşturun **görünür** yapın önce."
 
 # Help
-help_1 : "Daha fazla bilgi için aşağıdaki butonlara tıklayın. Komutlar ve öğreticileri görmek istiyorsanız ( botun nasıl çalıştığı hakkında merak edilenler ve her şey ):-\n\nTüm komutlar aşşağıdaki butonlara basarak görebilirsiniz: /"
+help_1 : "**Komutlar ve Öğreticileri Görmek İçin Aşağadaki Butonları Kullanınız 🐰**\n\n**🔮Grup Üyelerinin Sadece Oynatma Komutlarını, Grup Adminlerininse Ayrıca Admin Komutlarını İncelemeleri Yeterli Olacaktır.**"
 help_2 : "Yardım için PM'den bana ulaşın."
 
 # Settings
