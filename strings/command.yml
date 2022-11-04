@@ -42,7 +42,7 @@ AUTH_COMMAND : ["yetkiver", "auth"]
 UNAUTH_COMMAND : ["yetkual", "unauth"]
 AUTHUSERS_COMMAND : ["authusers"]
 PAUSE_COMMAND : ["dur", "pause", "cpause"]
-RESUME_COMMAND : ["devam", "resume", "cresume"]
+RESUME_COMMAND : ["devam", "resume", "cresu
 MUTE_COMMAND : ["sustur", "mute", "cmute"]
 UNMUTE_COMMAND : ["susturma", "unmute", "cunmute"]
 STOP_COMMAND : ["bitir", "stop", "end", "cstop", "cend"]
@@ -53,6 +53,7 @@ SEEK_COMMAND : ["seek", "cseek", "seekback", "cseekback"]
 RESTART_COMMAND : ["yenile", "restart"]
 
 # Sudo Users Commaands
+
 
 # Sudo Command
 ADDSUDO_COMMAND : ["addsudo"]
@@ -107,6 +108,5 @@ ACTIVEVC_COMMAND : ["activevoice"]
 ACTIVEVIDEO_COMMAND : ["activevideo"]
 
 #Gban Commands
-GBAN_COMMAND : ["gban"]
+GBAN_COMMAND : ["gban"
 UNGBAN_COMMAND : ["ungban"]
-GBANNED_COMMAND : ["gbannedusers"]
