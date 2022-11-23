@@ -73,7 +73,7 @@ start_5 : "{0} adlı kullanıcının Sudo Kullanıcısının[{1}] bir üyesi soh
 start_6 : "❗️ **Süper Grup Gerekli** ❗️\n\nLütfen **grubunuzu** **süper gruba** dönüştürün ve sonra beni tekrar ekleyin.\n\n**Üst grup nasıl yapılır?**\n✅ Grubunuzun sohbet geçmişini oluşturun **görünür** yapın önce."
 
 # Help
-help_1 : "**𝗮𝘀𝘀𝗮𝗴𝗶𝗱𝗮𝗸𝗶 𝗯𝘂𝘁𝗼𝗻𝗱𝗮𝗻 𝗸𝗼𝗺𝘂𝘁𝗹𝗮𝗿𝗮 𝗯𝗮𝗸𝗮𝗯𝗶𝗹𝗶𝗿𝘀𝗶𝗻𝗶𝘇.**"
+help_1 : "**✨ Gerekli Yetkiler : \n\n\n🎧 Sesli Sohbet Yetkisi\n\n🔗 Bağlantı İle Davet\n\n🚮 Mesajları Silme Yetkisi\n\n⚙️ Botun Sorunsuz Ve İstediğiniz Gibi Düzgün Çalışması İçin Bu Yetkileri Vermenizi Tavsiye Ederiz . . .**"
 help_2 : "𝘣𝘰𝘵 ' 𝘢 𝘰𝘻𝘦𝘭𝘥𝘦𝘯 𝘣𝘢𝘬𝘮𝘢𝘭𝘪𝘴𝘪𝘯."
 
 # Settings
